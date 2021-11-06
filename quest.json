@@ -1,0 +1,35 @@
+{
+    "repository": {
+        "type": "quest",
+        "organization": "3exiteers",  
+        "repository": "quest-teaser01b-de",
+        "private": true
+      },
+    "id": "teaser01b-de",
+    "type": "quest",
+    "version": 1.0,
+    "tag": ["text", "nonsense"],
+    "level": ["easy"],
+    "license": "MIT",
+    "name": "Teaser01b",
+    "description": "",
+    "solutions":["", ""],
+    "content": {
+        "body": ""
+    },
+    "hints":{
+        "1":{
+            "text":"",
+            "points":-3
+        },
+        "2":{
+            "text":"",
+            "points":-3
+        },
+        "3":{
+            "text":"Die Lösung lautet %%%variable:solution%%%.",
+            "points":-10,
+            "solution": true
+        }
+    }
+}
