@@ -13,9 +13,9 @@
     "license": "MIT",
     "name": "Teaser01b",
     "description": "",
-    "solutions":["", ""],
+    "solutions":["5,4", "54"],
     "content": {
-        "body": ""
+        "body": "<p>[image:{filename:hinweis.png}] </p> <p> [image:{filename:quest.png}]</p> Was ist die richtige Angabe für die nächste Kombination? (Lösungsangabe in A,B - ähnlich der Darstellung unter den jeweiligen Kreisen.)"
     },
     "hints":{
         "1":{
