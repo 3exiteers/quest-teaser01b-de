@@ -15,15 +15,15 @@
     "description": "",
     "solutions":["5,4", "54"],
     "content": {
-        "body": "<p>[image:{filename:hinweis.png}] </p> <p> [image:{filename:quest.png}]</p> Was ist die richtige Angabe für die nächste Kombination? (Lösungsangabe in A,B - ähnlich der Darstellung unter den jeweiligen Kreisen.)"
+        "body": "<p>[image:{filename:hinweis.png}] </p> <p> [image:{filename:quest.png}]</p> Was ist die richtige Angabe für die nächste Kombination? (Lösungsangabe in A,B - wie in der Darstellung unter den jeweiligen Kreisen.)"
     },
     "hints":{
         "1":{
-            "text":"",
+            "text":"Der rote Strich ist wichtig, denkt an die Zeiger einer Uhr.",
             "points":-3
         },
         "2":{
-            "text":"",
+            "text":"Der kleine Kasten wird immer weiterbewegt und der große Kasten bewegt sich auf Basis einer Kondition.",
             "points":-3
         },
         "3":{
