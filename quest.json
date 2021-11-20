@@ -15,7 +15,7 @@
     "description": "",
     "solutions":["5,4", "54"],
     "content": {
-        "body": "<p>[image:{filename:mainboard-v2.png}{width:100%}][image:{filename:quest.png}{width:30%}]</p> Was ist die richtige Angabe für die Einstellung von dem Switch für Clock_E? (Lösungsangabe in A,B - wie in der Darstellung auf den Dip-Switches.)"
+        "body": "<p>[image:{filename:mainboard-v2.png}{width:100%}]</p> Was ist die richtige Angabe für die Einstellung von dem Switch für Clock_E? (Lösungsangabe in A,B - wie in der Darstellung auf den Dip-Switches.)"
     },
     "hints":{
         "1":{
