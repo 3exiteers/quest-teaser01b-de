@@ -15,11 +15,11 @@
     "description": "",
     "solutions":["5,4", "54"],
     "content": {
-        "body": "<p>[image:{filename:hinweis.png}] </p> <p> [image:{filename:quest.png}{width:60%}]</p> Was ist die richtige Angabe für die nächste Kombination? (Lösungsangabe in A,B - wie in der Darstellung unter den jeweiligen Kreisen.)"
+        "body": "<p>[image:{filename:mainboard.png}{width:100%}]</p> Was ist die richtige Angabe für die Einstellung von dem Switch für Clock_E? (Lösungsangabe in A,B - wie in der Darstellung auf den Dip-Switches.)"
     },
     "hints":{
         "1":{
-            "text":"Der rote Strich ist wichtig, denkt an die Zeiger einer Uhr.",
+            "text":"Der rote Strich ist wichtig, denkt an die Zeiger einer Uhr. Beachtet nur die Dip-Switches und die Clocks (sowie die Pfeile dazwischen).",
             "points":-3
         },
         "2":{
