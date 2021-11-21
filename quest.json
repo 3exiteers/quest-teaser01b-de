@@ -15,15 +15,15 @@
     "description": "",
     "solutions":["5,4", "54"],
     "content": {
-        "body": "<p>[image:{filename:mainboard-v2.png}{width:100%}]</p> Was ist die richtige Angabe für die Einstellung von dem Switch für Clock_E? (Lösungsangabe in A,B - wie in der Darstellung auf den Dip-Switches.)"
+        "body": "<p>[image:{filename:mainboard-v2.png}{width:100%}]</p>Welches sind die richtigen Einstellungen der DIP-Schalter für Clock_E? Welche DIP-Schalter müssen für CLOCK_E auf ON gestellt werden?"
     },
     "hints":{
         "1":{
-            "text":"Der rote Strich ist wichtig, denkt an die Zeiger einer Uhr. Beachtet nur die Dip-Switches und die Clocks (sowie die Pfeile dazwischen).",
+            "text":"Die rote Markierung ist wichtig, denkt an die Zeiger einer Uhr. Beachtet nur die DIP-Schalter und die CLOCKs, sowie die Pfeile dazwischen.",
             "points":-3
         },
         "2":{
-            "text":"Der kleine Kasten wird immer weiterbewegt und der große Kasten bewegt sich auf Basis einer Kondition.",
+            "text":"Der kleine innere Kasten wird immer weiterbewegt und der große Kasten bewegt sich auf Basis einer Bedingung.",
             "points":-3
         },
         "3":{
