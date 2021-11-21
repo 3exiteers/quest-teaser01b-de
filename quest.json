@@ -15,11 +15,11 @@
     "description": "",
     "solutions":["5,4", "54"],
     "content": {
-        "body": "<p>[image:{filename:mainboard-v2.png}{width:100%}]</p>Welches sind die richtigen Einstellungen der DIP-Schalter für Clock_E? Welche DIP-Schalter müssen für CLOCK_E auf ON gestellt werden?"
+        "body": "<p>[image:{filename:mainboard-v2.png}{width:100%}]</p>Welches sind die richtigen Einstellungen der DIP-Schalter für DIP_E? Welche Schalter müssen auf ON gestellt werden, wenn CLOCK_E dem zu Grunde liegt?"
     },
     "hints":{
         "1":{
-            "text":"Die rote Markierung ist wichtig, denkt an die Zeiger einer Uhr. Beachtet nur die DIP-Schalter und die CLOCKs, sowie die Pfeile dazwischen.",
+            "text":"Die rote Markierung ist wichtig, denkt an die Zeiger einer Uhr. Beachtet nur die DIP-Schalter und die unterschiedlichen CLOCKs, sowie die Pfeile dazwischen.",
             "points":-3
         },
         "2":{
