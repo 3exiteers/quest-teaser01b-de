@@ -15,7 +15,7 @@
     "description": "",
     "solutions":["5,4", "54"],
     "content": {
-        "body": "<p>[image:{filename:mainboard-dreiecke.png}{width:100%}]</p>Welches sind die richtigen Einstellungen der DIP-Schalter für DIP_E? Welche Schalter müssen auf ON gestellt werden, wenn CLOCK_E dem zu Grunde liegt?"
+        "body": "<p>[image:{filename:mainboard-v3.png}{width:100%}]</p>Welches sind die richtigen Einstellungen der DIP-Schalter für DIP_E? Welche Schalter müssen auf ON gestellt werden, wenn CLOCK_E dem zu Grunde liegt?"
     },
     "hints":{
         "1":{
