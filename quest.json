@@ -13,17 +13,17 @@
     "license": "MIT",
     "name": "Teaser01b",
     "description": "",
-    "solutions":["5,4", "54"],
+    "solutions":["sechs und achtzig", "86"],
     "content": {
-        "body": "<p>[image:{filename:mainboard-v3.png}{width:100%}]</p>Welches sind die richtigen Einstellungen der DIP-Schalter für DIP_E? Welche Schalter müssen auf ON gestellt werden, wenn CLOCK_E dem zu Grunde liegt?"
+        "body": "<p>[image:{filename:mainboard-v4.png}{width:100%}]</p>Welches sind die richtigen Einstellungen der DIP-Schalter für DIP_E? Welche Schalter müssen auf ON gestellt werden, wenn BIN-COUNT_E dem zu Grunde liegt?"
     },
     "hints":{
         "1":{
-            "text":"Die rote Markierung ist wichtig, denkt an die Zeiger einer Uhr. Beachtet nur die DIP-Schalter und die unterschiedlichen CLOCKs, sowie die Pfeile dazwischen.",
+            "text":"Um dieses Rätsel zu lösen müsst ihr im Binärsystem denken.",
             "points":-3
         },
         "2":{
-            "text":"Der kleine innere Kasten wird immer weiterbewegt und der große Kasten bewegt sich auf Basis einer Bedingung.",
+            "text":"Nutzt einen Binärrechner und versucht die BIN-COUNTs mit den DIP-Schaltern in Verbindung zu bringen.",
             "points":-3
         },
         "3":{
