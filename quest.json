@@ -15,7 +15,7 @@
     "description": "",
     "solutions":["sechs und achtzig", "86"],
     "content": {
-        "body": "<p>[image:{filename:mainboard-v5.png}{width:100%}]</p>Welches sind die richtigen Einstellungen der DIP-Schalter für DIP_E? Welche Schalter müssen auf ON gestellt werden, wenn BIN-COUNT_E dem zu Grunde liegt?"
+        "body": "<p>[image:{filename:quest-v5.png}{width:100%}]</p>Welches sind die richtigen Einstellungen der DIP-Schalter für DIP_E? Welche Schalter müssen auf ON gestellt werden, wenn BIN-COUNT_E dem zu Grunde liegt?"
     },
     "hints":{
         "1":{
